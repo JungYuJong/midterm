@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<!DOCTYPE html>
+<html lang="en">
+
+ 
+
+
+  
+
+ 
+    <header class="bg-primary text-white">
+      <div class="container text-center">
+        <h1>Korean Baseball Organization(KBO)-since, 1982
+        <img src=https://s3.namuwikiusercontent.com/s/3bdd6279d685556de00a035e980e9fb756e1dfbcf1f9ffd5d947a73165ce6cedbf080f56605ea49ce84ffa310842f187b781141233ef9f68a9baaac10eaf97fa95158e670e414ace0d80a6fdddc6aa83452a80730b174e4196991d404e706d16 height=100></h1>
+        <p class="lead">In KBO, there are 10 teams. And baseball is one of the best sports in Korea.</p>
+      </div>
+    </header>
+
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2>About KBO</h2>
+            <p class="lead">This page is explain about Korea baseball league.</p>
+            <ul>
+              <li>Korean baseball teams</li>
+              <li>Each team legend players</li>
+              <li>Post season and Korea series</li>
+              
+              <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+           <h3>KBO teams</h3>
+                  <li>DooSan Bears-Seoul(1982.1.15)</li>
+                  
+                  <img src=https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Doosan_Bears.svg/1200px-Doosan_Bears.svg.png.jpg height = 100>
+              <p class="lead"> Doosan bears has the same base as LG, so it is quite a rival when the two teams meet. Also, Doosan is very strong team. Long time ago, since KBO just started in 1982, Doosan bears always go to post season.</p>
+              
+          
+             
+              <li> LG Twins-Seoul(1982.1.26)</li>
+              <img src=https://upload.wikimedia.org/wikipedia/commons/4/41/LG_Twins_2017.png height =100>
+              <p class="lead"> LG twins has the same base as Doosan bears. It has been in a rivalry with Doosan since its foundation. LG and Doosan share same stadium. So when these two team meet, It calls Seoul match. The reason is Doosan and LG share same stadium. So, that's why Doosan and LG become rival.
+              
+              
+              
+              <li> Kiwoom Heroes-Seoul(2008.3.24)</li> 
+              <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nexen_Heroes_insignia.svg/768px-Nexen_Heroes_insignia.svg.png height = 100>
+              <p class="lead"> In January first, this team change the team name Nexon heroes to Kiwoom Heroes by a new sponcer, kiwoom securities. This team was foundation in Seoul but this team is not in rival with Doosan and LG. Because, this team's home stadium is in Incheon. 
+              
+              
+              
+              <li> Lotte Giants-Busan(1975.5.6)</li>
+              <img src=https://upload.wikimedia.org/wikipedia/en/d/d9/Lotte_Giants.png height = 100>
+              <p class="lead"> Lotte giants has very funny cheering culture. I think Lotte's fans are very passionate. This team has many nickname. But these are not good meaning.</p>
+             
+              
+              
+              
+              <li> Samsung Lions-Daegu(1982.2.3)</li>
+              <img src=https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Samsung_Lions.svg/1200px-Samsung_Lions.svg.png height=100>
+              <p class="lead"> Samsung lions is one of the team which has eight winning cup. In 1985, 2002, 2005, 2006, and 2011~2014.(8) Especially 2011 to 2014, this time people called samsung dynasty. Samsung Lions was one of the strong team. But some of players make a problem(illegality gambling), so the players involved in this problem were either kicked out or sent to another team. After that, Samsung lions is very weak.
+              
+              
+              
+              <li> KT Wiz-Suwon(2013.1.17)</li>
+              <img src=https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/KT_Wiz.svg/1200px-KT_Wiz.svg.png height=100>
+              <p class="lead"> KT wiz is a newly launched team. After launched, this team always got a bad score. This team's home stadium is Suwon Kt wiz park.
+              
+              
+              
+              <li> NC Dinos-Changwon(2011.3.31)</li>
+              <img src=https://upload.wikimedia.org/wikipedia/en/thumb/4/48/NC_Dinos.svg/1280px-NC_Dinos.svg.png height=100> 
+              <p class="lead">This team also new launched team. When this team launched at first year, so powerful. For example, NC Dinos showed powerful game, so this team went to post season in first time. But, in 2018 season NC dinos record the lowest grade.
+            
+            
+            <li> SK Wyverns-Incheon(2000.3.31)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F4%2F43%2FSK_Wyverns.svg%2F1200px-SK_Wyverns.svg.png&f=1 height =100>
+            <p class="lead"> This team was final winner last year(2018). This team also one of the team which has many winning cup(4).
+            
+            
+            
+            <li> KIA Tigers-Gwangju(1982.1.30)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fe%2Fe0%2FKia_Tigers_2017_New_Team_Logo.png&f=1 height=100>
+            <p class="lead"> Maybe KIA Tigers has a lot of winning cup in this league(11). In 2017, this team was final winner. But, last year this team was got disappoinment score. 
+            
+            
+            <li> Hanwha Eagles-Daejeon(1986.3.8)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fd%2Fd3%2FHanwha_Eagles.svg%2F1200px-Hanwha_Eagles.svg.png&f=1 height=100>
+            <p class="lead"> This team is my hometeam. In 1999, this team last won in Korea series. After until 2017, this team couldn't go post season. But last year hanwha got an amazing score in league. Also, this team went to post season. Unfortunately, they fail at post season.
+
+
+
+              
+              
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="services" class="bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2>Each team legend players</h2>
+            <p class="lead">To each team in KBO, there are legend players(exist NC, KT, Kiwoom heroes)</p>
+            
+            <h3>-Doosan Bears</h3>
+            <li>-Park chul soon No.21-(pitcher: 1982~1996)</li>
+            <li>Born(1954.3.12~)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fpostfiles14.naver.net%2F20140502_237%2Frhaehfdlbn_1398992888313Er7O5_PNG%2F%25B9%25DA%25C3%25B6%25BC%25F8.PNG%3Ftype%3Dw2&f=1 height = 200>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fko%2Fthumb%2Fb%2Fbb%2FDoosanBearsRetired21Flag.svg%2F1200px-DoosanBearsRetired21Flag.svg.png&f=1 height=200>
+           
+            <p class="lead"> team- Milwaaukee Bruce Minor League(1980-1981)
+            ,OB Bears(past Doosan bears)(1982-1996)</p>
+            
+            
+            
+            <li>-Kim Young Sin No.54-(cather: 1985~1986)</li>
+            <li>Born to die(1961.11.9~1986.8.15)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ffile.namu.moe%2Ffile%2F32b946023a2f4a54aef2db66ad0ae1aa658627c7167be94a4fc6e19dca1a55a3&f=1 height=200>
+            <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fko%2Fthumb%2F8%2F83%2FDoosanBearsRetired54Flag.svg%2F225px-DoosanBearsRetired54Flag.svg.png&f=1 height=200>
+            <p class="lead"> He was sucide. Because of intensifying competition for the starting position</p>
+            <p class="lead">team-OB Bears(past DooSan bears)(1985-1986)</p>
+            
+            
+            
+            <h3>-LG TWINS</h3>
+            <li>-Kim Young Soo No.41-(pitcher: 1983-2000)</li>
+            <li>Born-Seoul(1960.5.2~)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ftalkimg.imbc.com%2FTVianUpload%2FTVian%2FTViews%2Fimage%2F2014%2F12%2F16%2Fss_201442401418712000.jpg&f=1 height=200>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F00%2FKBO_Retired_LG_41_svg.png%2F350px-KBO_Retired_LG_41_svg.png&f=1 height=200>
+            <p class="lead">Team- Korea and Japan bank.(1983~1984)</p>
+            <p class="lead">MBC blue dragon(past LG)(1985~2000)</p>
+            
+            
+            
+            <li>-Lee Byung Gyu No.9- (hitter: 1997~2016)</li>
+            <li>Born-Gimje city in Jeollabuk-do(1974.12.8~)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.yonhapnews.co.kr%2Fphoto%2Fyna%2FYH%2F2013%2F11%2F15%2FPYH2013111509340001300_P2.jpg&f=1 height=200>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ffile.namu.moe%2Ffile%2F15fd6921ae97be6f50ee33094543e92a51a4c29b801d58ba1b01da90962238f0&f=1 height=200>
+            <p class="lead">Team-LG twins(1997~2006, 2010~2016) Junichi Dragons(Japan)(2007~2009)</p>
+            
+            
+            
+            <h3>-LOTTE GIANTS</h3>
+            <li>-Choi Dong Won No.11- (pitcher: 1981~1990)</li>
+            <li>He is one of the legend pitcher in KBO</li>
+            <li>Born and die -Busan(1958.5.24~2011.9.14)</li>
+            <img src=http://i.huffpost.com/gen/2202844/images/o-CHOI-facebook.jpg height=200>
+            <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/KBO_Retired_Lotte_11.svg/150px-KBO_Retired_Lotte_11.svg.png height=200>
+            <p class="lead">Team-Lotte Giants(1981, 1983~1988) Korean electricity power(amature team)(1982) Samsung Lions(1989~1990)
+            
+            
+            
+            <h3>-SAMSUNG LIONS</h3>
+            <li>-Yang JUn Hyuck No.10- (hitter: 1993~2010)</li>
+            <li>Born-Daegu(1969.7.10)</li>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.daumcdn.net%2Fthumb%2FR720x0%2F%3Ffname%3Dhttp%3A%2F%2Ft1.daumcdn.net%2Fliveboard%2FjobsN%2F3f0d3f1b76e248bdb5023ff2248133b0.jpg&f=1 height=200>
+            <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F13776D544E4F541C23&f=1 height=200>
+            <p class="lead">Team-Samsung lions(1993~1998)(2002~2010), Hatte tigers(past KIA tigers)(1999), LG Twins(2000~2001)</p>
+            
+            
+            
+           <li>-Lee Man Soo No.22- (catcher: 1982~1997)</li>
+           <li>Born-Cheolwon, Gangwondo(1958.9.9)</li>
+           <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.fnnews.com%2Fresource%2Fmedia%2Fimage%2F2018%2F03%2F08%2F201803081749097734_l.jpg&f=1 height=200>
+           <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F26%2FKBO_Retired_Samsung_22.svg%2F180px-KBO_Retired_Samsung_22.svg.png&f=1 height=200>
+           <p class="lead">Team Samsung lions(1982~1997)</p>
+           
+           
+           
+           
+           
+          <li>-Lee Seoung Yeop No.36- (hitter: 1995~2017)</li>
+          <li>Born-Daegu(1976.10.11)</li>
+          <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fspnimage.edaily.co.kr%2Fimages%2Fphoto%2Ffiles%2FNP%2FS%2F2017%2F07%2FPS17072700046.jpg&f=1 height=200>
+          <img src=https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.mir.pe%2Ffile%2Ffade6f948cbbb3b6a448005421a58cd98c86867636f395c6cd2fcd6fa8fc1e0f5731308ca7118703db2abca19921bec6&f=1 height=200>
+          <p class="lead"> Team-samsung lions(1995~2003)(2012~2017), Japan league-Chiva lotte(2005~2005), Yomiuri giants(2006~2010), Ohrix buffalos(2011)</p>
+          
+          
+          
+          
+          <h3>-SK WYVERNS</h3>
+          <li>-Park Kyung Wan No.26-(catcher: 1991~2013)</li>
+          <li>Born-Jeonju, Jeonlabookdo(1972.7.11~)</li>
+          <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fdimg.donga.com%2Fwps%2FSPORTS%2FIMAGE%2F2013%2F10%2F22%2F58372033.2.jpg&f=1 height=200>
+          <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Ffile.dailian.co.kr%2Fnews%2F201512%2Fnews_1451544047_547569_m_1.jpg&f=1 height=200>
+          <p class="lead">Team-SBW RADIERS(past team)(1991~1997), HYUNDAI UNICORNS(past team)(1998~2002),SK WYVERNS(2003~2013)</p>
+          
+          
+          
+          <h3>-KIA TIGERS</h3>
+          <li>-Lee Jong Bum No.7-(hitter: 1993~2011)</li>
+          <li>He was the only player who could Play more than three position.</li>
+          <li>Born-Gwangju(1970.8.15~)</li>
+          <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcfs9.tistory.com%2Fupload_control%2Fdownload.blog%3Ffhandle%3DYmxvZzk3MDM2QGZzOS50aXN0b3J5LmNvbTovYXR0YWNoLzAvMC5qcGc%253D&f=1 height=200>
+          <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.chosun.com%2Fsitedata%2Fimage%2F201503%2F05%2F2015030500524_0.jpg&f=1 height=200>
+           <p class="lead">Team-Hatte Tigers(past KIA tigers)(1993~1997),Junichi Dragons(1998~2000),KIA tigers(2001~2011)
+           
+           
+           
+           <li>-Sun Dong Yol No.18-(pitcher: 1985~1999)</li>
+           <li>He was one of the legend pitcher. When he was player, he and Choi Dong Won in rival.</li>
+           <li>Born-Gwangju(1963.1.10~)</li>
+           <img src=http://cfs13.tistory.com/image/7/tistory/2010/01/31/13/11/4b65030b359c0 height=200>
+           <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb6QRkKZTngc1KnIM8Xh6VK78sh1mNBCncB1l-viaz-cXvv_FO9g height=200>
+           
+           
+           
+           <h3>-HANWHA EAGLES</h4>
+           <li>-Jang Jong Hoon No.35-(hitter: 1986~2005)</li>
+           <li>Born-Yeongdonggoon, ChoongChungBookdo(1968.4.10~)</li>
+           <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.sportsmuseum.co.kr%2Frecord%2Fimages%2Fjangjh-1.jpg&f=1 height=300>
+           <img src=http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/KBO_Retired_Hanwha_35.svg/300px-KBO_Retired_Hanwha_35.svg.png height=300>
+           <p class="lead">Team- Hanwha Eagles(1986~2005)</p>
+           
+           
+           
+           <li>-Song Jin Woo No.21-(pitcher: 1988~2009)</li>
+           <li>Born-Jeungpyeong, ChoongChungBookdo(1965.2.16~)</li>
+           <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fsccdn.chosun.com%2Fnews%2Fhtml%2F2015%2F02%2F23%2F2015022301002304800150198.jpg&f=1 height=300>
+            <img src=http://image.sportsseoul.com/2018/04/12/news/2018041201000662100047701.jpg height=300>
+            <p class="lead">Team-Hanwha Eagles(1989~2009)</p>
+            
+            
+            
+           <li>-Jung Min Chul No.23-(pitcher: 1992~2009)</li>
+           <li>Born-Daejeon(1972.3.28~)</li>
+           <img src=http://archivenew.vop.co.kr/images/6db05393f8a9fc03c4759897020105f2/2017-04/marked/03031623_NISI20080529_0006866071_web.jpg height=300>
+           <img src=https://s3.namuwikiusercontent.com/s/0b1778a29d630afbf5ce9056d3518c8faecb5a4197e877ccddd99d5297de507d78351d7bed01a9c09c132c32c40d229cf81d3bcdbcfd74cae82d94c5607d75f7c33a296ae68d52519751dd53ce8b35542a57be786cc9bc1db105dfc07aeb7145 height=300>
+           <p class="lead">Team-Hanwha Eagles(1992~1999)(2002~2009), Yomiuri Giants(Japan league)(2000~2001)</p>
+            
+            
+            
+            <h2> Post season and Korea series</h2>
+            <li>Post Season(Play Off)</li>
+            <img src=https://img1.daumcdn.net/thumb/R720x0/?fname=https://t1.daumcdn.net/liveboard/KBO/a645b7b0f138400b982935c21477858d.jpg height=300>
+           <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.kyeongin.com%2Fmnt%2Ffile%2F201810%2F20181016001412516_1.jpg&f=1 height=300>
+           
+           <p class="lead"> Post Season is the Kind of game before Korea series. This can only go up to the top five. The picture is last year Post Season and Korea season schedule.</p>
+           
+           <h2>Korea series</h2>
+           <img src=https://t1.daumcdn.net/cfile/tistory/99E59F3D5BC23AA810 height=300>
+           <img src=https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn2.diodeo.com%2Fcdn%2Fnews_photo%2F2018%2F11%2F13%2F3158884-01.jpg&f=1 height=300>
+           
+          
+            
+          
+          
+          
+          
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2>Contact me</h2>
+            <p class="lead">My address is Beopdong, Daeduckgu, Daejeon, Korea</p>
+            <p class="lead">E-mail: jung06013@naver.com</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom JavaScript for this theme -->
+    <script src="js/scrolling-nav.js"></script>
+
+  </body>
+
+</html>
